@@ -1,0 +1,86 @@
+.compare-bg {
+    background-color: rgb(51, 48, 135);
+    background-image: url(../images/bg-cloud-star.png);
+    background-size: 100% 1255px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+  }
+  
+  .compare-table-title {
+    padding-top: 79px;
+    margin-bottom: 46px;
+    font-size: 77px;
+    text-align: center;
+  }
+  
+  .compare-wrapper {
+    margin-bottom: 68px;
+    display: flex;
+    flex-direction: row;
+    gap: 22px;
+  }
+  
+  .compare-item {
+    width: 712px;
+  }
+  
+  .compare-left-img {
+    width: 566px;
+    height: 317px;
+    margin-left: 81px;
+    margin-bottom: 38px;
+  }
+  
+  .compare-title {
+    margin-bottom: 47px;
+    font-size: 52px;
+    letter-spacing: 1.3px;
+    text-align: center;
+  }
+
+  .mb-15 {
+    margin-bottom: 15px;
+  }
+  
+  .compare-item_title {
+    font-size: 42px;
+    color: #e27601;
+  }
+  
+  .visible {
+    visibility: hidden;
+  }
+  
+  .compare-item_text {
+    padding: 34px 62px;
+    font-size: 37.5px;
+    letter-spacing: 0.9px;
+    text-align: center;
+    background-color: #e27601;
+    border-radius: 10px;
+  }
+  
+  .compare-right-img {
+    width: 607px;
+    height: 317px;
+    margin-left: 45px;
+    margin-bottom: 38px;
+  }
+  
+  .bottom-text {
+    padding-bottom: 345px;
+    font-size: 52px;
+    letter-spacing: 1.3px;
+    text-align: center;
+  }
+  
+  .bottom-text_bold {
+    text-transform: uppercase;
+    font-size: 73px;
+    letter-spacing: 1.83px;
+    line-height: 100px;
+    text-align: center;
+  }
+
+  
+  

@@ -1,0 +1,67 @@
+@media (max-width: 321px) {
+    .about-blanket_bg {
+        margin-bottom: 35px;
+        height: 301px;
+        padding-top: 30px;
+        padding-left: 137px;
+        background-image: url(../images/about-blanket-img-mobile.png);
+        background-size: 280px 226px;
+        background-position: bottom;
+      }
+      
+      .about-blanket_text {
+        width: 135px;
+        font-size: 19px;
+        letter-spacing: 0.3px;
+        text-align: start;
+      }
+      
+      .mb-267 {
+        margin-bottom: 200px;
+      }
+      
+      .about-blanket_list {
+        margin-bottom: 31px;
+        gap: 28px;
+        align-items: center;
+      }
+      
+      .about-blanket_item {
+        flex-direction: column;
+        align-items: center;
+        gap: 18px;
+      }
+
+      .tablet-only {
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+      
+      
+      .about-blanket_item:nth-child(even) {
+        flex-direction: column;
+      }
+      
+      .about-blanket_img {
+        width: 219px;
+        height: 219px;
+      }
+      
+      .about-blanket_dscrpt {
+        font-size: 19px;
+        letter-spacing: 0.48px;
+        text-align: center;
+      }
+      
+      .smaller-dscrpt {
+        line-height: 18px;
+        letter-spacing: 0.4px;
+      }
+      
+      .bold-title {
+        margin-bottom: 10px;
+        font-size: 25px;
+        letter-spacing: 0.6px;
+        text-align: center;
+      }
+  }

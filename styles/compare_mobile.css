@@ -1,0 +1,27 @@
+@media (max-width: 321px) {
+    .compare-bg {
+        background-color: rgb(51, 48, 135);
+        background-image: url(../images/bg-cloud-star-mobile.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-position: bottom;
+      }
+      
+      .mobile-only {
+        display: none;
+      }
+      
+      .bottom-text {
+        padding-top: 32px;
+        padding-bottom: 94px;
+        font-size: 25px;
+        letter-spacing: 0.6px;
+        text-transform: uppercase;
+      }
+      
+      .bottom-text_bold {
+        font-size: 37px;
+        letter-spacing: 0.9px;
+        line-height: 50px;
+      }
+  }

@@ -1,0 +1,83 @@
+@media (max-width: 1023px) {
+    .compare-bg {
+      background-color: rgb(51, 48, 135);
+      background-image: url(../images/bg-cloud-star.png);
+      background-size: 100% 82%;
+      background-repeat: no-repeat;
+      background-position: bottom;
+    }
+    
+    .compare-table-title {
+      padding-top: 55px;
+      margin-bottom: 30px;
+      font-size: 54px;
+      text-align: center;
+    }
+    
+    .compare-wrapper {
+      margin-bottom: 57px;
+      display: flex;
+      flex-direction: row;
+      gap: 14px;
+    }
+    
+    .compare-item {
+      width: 455px;
+    }
+    
+    .compare-left-img {
+      width: 381px;
+      height: 214px;
+      margin-left: 27px;
+      margin-bottom: 28px;
+    }
+    
+    .compare-title {
+      margin-bottom: 47px;
+      font-size: 35px;
+      letter-spacing: 1px;
+      text-align: center;
+    }
+  
+    .mb-15 {
+      margin-bottom: 10px;
+    }
+    
+    .compare-item_title {
+      font-size: 29px;
+    }
+    
+    .visible {
+      visibility: hidden;
+    }
+    
+    .compare-item_text {
+      padding: 22px 57px;
+      font-size: 29px;
+      letter-spacing: 0.7px;
+      text-align: center;
+      border-radius: 8px;
+    }
+    
+    .compare-right-img {
+      margin-top: 9px;
+      margin-left: 35px;
+      margin-bottom: 28px;
+      width: 401px;
+      height: 205px;
+    }
+    
+    .bottom-text {
+      padding-bottom: 265px;
+      font-size: 36px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    
+    .bottom-text_bold {
+      font-size: 50px;
+      letter-spacing: 1.2px;
+      line-height: 80px;
+    }
+  
+}

@@ -1,0 +1,62 @@
+.about-blanket_bg {
+    margin-top: 89px;
+    margin-bottom: 99px;
+    padding-top: 228px;
+    padding-left: 1118px;
+    background-image: url(../images/about-blanket-img.png);
+    background-size: 1439px 708px;
+    background-repeat: no-repeat;
+  }
+  
+  .about-blanket_text {
+    color: #1d1d1b;
+    font-size: 38px;
+    letter-spacing: 2px;
+  }
+  
+  .mb-267 {
+    margin-bottom: 267px;
+  }
+  
+  .about-blanket_list {
+    margin-bottom: 77px;
+    display: flex;
+    flex-direction: column;
+    width: 1444px;
+  }
+  
+  .about-blanket_item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+  }
+  
+  .about-blanket_item:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+  
+  .about-blanket_img {
+    width: 501px;
+    height: 501px;
+  }
+  
+  .about-blanket_dscrpt {
+    font-size: 38px;
+    color: #000000;
+    letter-spacing: 0.8px;
+  }
+  
+  .smaller-dscrpt {
+    line-height: 38px;
+    letter-spacing: -0.9px;
+  }
+  
+  .bold-title {
+    margin-bottom: 42px;
+    font-size: 63px;
+    color: #e27601;
+    letter-spacing: 2px;
+  }
+
+  

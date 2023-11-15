@@ -1,0 +1,92 @@
+@media (max-width: 1023px) {
+    .full-bg {
+      background-color: rgb(51, 48, 135);
+    }
+    
+    .full-bg_star {
+      background-size: 100% 84%;
+    }
+    
+    .header-wrapper {
+      padding-bottom: 36px;
+      gap: 405px;
+    }
+    
+    .header {
+      margin-top: 66px;
+      gap: 44px;
+    }
+    
+    .logo {
+      width: 247px;
+      height: 247px;
+    }
+    
+    .header-title {
+      width: 628px;
+      height: 99px;
+      margin: 30px 0 44px 0;
+      font-size: 42px;
+      letter-spacing: 4px;
+    }
+    
+    .header-title_bold {
+      font-size: 55px;
+      letter-spacing: 0.1px;
+      line-height: 110px;
+    }
+    
+    .header-bg {
+      width: 925px;
+      height: 432px;
+      top: 239px;
+      background-size: 521px 292px, 619px 325px;
+    }
+
+    .wrapper-margin {
+      margin-left: 0px;
+    }
+    
+    .header-description_wrapper {
+      margin-bottom: 70px;
+      gap: 203px;
+    }
+    
+    .header-description_title {
+      font-size: 37px;
+      letter-spacing: 1px;
+    }
+    
+    .header-description {
+      position: relative;
+      font-size: 29px;
+      letter-spacing: 1px;
+    }
+
+    .ml-135 {
+      margin-left: 110px;
+    }
+
+    .header-property_wrapper {
+      display: flex;
+      flex-direction: row;
+      gap: 250px;
+    }
+    
+    .header-description_btm::before {
+      top: -50px;
+      left: -110px;
+    }
+    
+    .before-icon_first::before {
+      width: 85px;
+      height: 100px;
+      background-size: contain;
+    }
+    
+    .before-icon_second::before {
+      width: 85px;
+      height: 85px;
+      background-size: contain;
+    }
+  }

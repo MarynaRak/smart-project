@@ -1,0 +1,61 @@
+@media (max-width: 1023px) {
+    .about-blanket_bg {
+      margin-top: 0;
+      margin-bottom: 95px;
+      height: 658px;
+      padding-top: 60px;
+      padding-left: 409px;
+      background-image: url(../images/about-blanket-img-tablet.png);
+      background-size: 925px 558px;
+      background-position: left bottom;
+    }
+    
+    .about-blanket_text {
+      width: 482px;
+      font-size: 35px;
+      letter-spacing: 0.8px;
+      text-align: end;
+    }
+    
+    .mb-267 {
+      margin-bottom: 513px;
+    }
+    
+    .about-blanket_list {
+      margin-bottom: 54px;
+      width: 100%;
+    }
+    
+    .about-blanket_item {
+      flex-direction: row;
+      align-items: center;
+      gap: 25px;
+    }
+
+    .tablet-only {
+      margin-top: 25px;
+      margin-bottom: 20px;
+    }
+    
+    
+    .about-blanket_img {
+      width: 323px;
+      height: 323px;
+    }
+    
+    .about-blanket_dscrpt {
+      font-size: 29px;
+      letter-spacing: 0.8px;
+    }
+    
+    .smaller-dscrpt {
+      line-height: 38px;
+      letter-spacing: -0.9px;
+    }
+    
+    .bold-title {
+      margin-bottom: 18px;
+      font-size: 35px;
+      letter-spacing: 1px;
+    }
+}

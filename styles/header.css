@@ -1,0 +1,112 @@
+
+.full-bg {
+    background-color: rgb(51, 48, 135);
+  }
+  
+  .full-bg_star {
+    position: relative;
+    background-image: url(../images/bg-star.png);
+    background-repeat: no-repeat;
+    background-size: 100% 84%;
+  }
+  
+  .header-wrapper {
+    padding-bottom: 78px;
+    display: flex;
+    flex-direction: column;
+    gap: 620px;
+  }
+  
+  .header {
+    margin-top: 98px;
+    display: flex;
+    flex-direction: row;
+    gap: 88px;
+  }
+  
+  .logo {
+    width: 345px;
+    height: 345px;
+  }
+  
+  .header-title {
+    height: 146px;
+    margin: 57px 38px 81px 0;
+    font-size: 63px;
+    letter-spacing: 6px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  .header-title_bold {
+    font-size: 83px;
+    letter-spacing: 2px;
+    line-height: 110px;
+  }
+  
+  .header-bg {
+    width: 1435px;
+    height: 589px;
+    position: absolute;
+    top: 382px;
+    background-image: url(../images/folded-blanket.png),
+      url(../images/rolled-blanket.png);
+    background-size: 750px 420px, 891px 525px;
+    background-repeat: no-repeat;
+    background-position: left bottom, right top;
+  }
+  
+  .wrapper-margin {
+    margin-left: 87px;
+  }
+  
+  .header-description_wrapper {
+    margin-bottom: 105px;
+    display: flex;
+    flex-direction: row;
+    gap: 205px;
+  }
+  
+  .header-description_title {
+    margin-bottom: 30px;
+    font-size: 52px;
+    letter-spacing: 4px;
+  }
+  
+  .header-description {
+    position: relative;
+    font-size: 37px;
+    letter-spacing: 3px;
+  }
+  
+  .ml-135 {
+    margin-left: 135px;
+  }
+  
+  .header-property_wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 310px;
+  }
+  
+  .header-description_btm::before {
+    content: "";
+    position: absolute;
+    display: inline-block;
+    top: -50px;
+    left: -135px;
+    background-repeat: no-repeat;
+  }
+  
+  .before-icon_first::before {
+    width: 95px;
+    height: 111px;
+    background-image: url(../images/ok-icon.png);
+  }
+  
+  .before-icon_second::before {
+    width: 110px;
+    height: 110px;
+    background-image: url(../images/hipoaiiergenic-icon.png);
+  }
+  
